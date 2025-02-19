@@ -1,4 +1,4 @@
-# S-pmiTTS
+# SapmiTTS
 Speech native Sápmi in Text Audio
 
 
